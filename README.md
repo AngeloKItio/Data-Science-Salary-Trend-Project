@@ -1,3 +1,3 @@
 # Data Science Salaries Trend Project
-Latest Data science salaries: Data Science Salaries
+The problem we aim to address is the dynamic nature of data science salaries, which have been evolving rapidly in recent years. As businesses increasingly rely on data-driven decision-making, the demand for skilled data scientists has surged. However, there is limited up-to-date information available on the current state of data science salaries, making it challenging for both job seekers and employers to make informed decisions. This project seeks to analyze the evolution of data science salaries from 2020 to 2024 to provide valuable insights into salary trends within the field.
 
